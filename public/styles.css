@@ -1,0 +1,29 @@
+h1 {
+  letter-spacing: 10px;
+}
+
+h1,
+nav,
+footer {
+  font-family: "Bangers", cursive;
+}
+
+p {
+  margin: 0;
+}
+
+.bg-img {
+  background-image: url("https://images.unsplash.com/photo-1609540969455-ad5ea19be121?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuJTIwc3dlZXRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 95%;
+}
+
+.navbar-brand:hover {
+  color: rgb(220, 53, 69);
+}
+
+.nav-link:hover {
+  color: gold;
+}
